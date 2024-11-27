@@ -1,0 +1,20 @@
+export const cityToCountry: Record<string, string> = {
+  'Amsterdam': '🇳🇱',
+  'Barcelona': '🇪🇸',
+  'Berlin': '🇩🇪',
+  'Rome': '🇮🇹',
+  'Paris': '🇫🇷',
+  'Prague': '🇨🇿',
+  'London': '🇬🇧',
+  'Lisbon': '🇵🇹',
+  'Tenerife': '🇪🇸',
+  'Gran Canaria': '🇪🇸',
+  'Fuerteventura': '🇪🇸',
+  'Arrecife': '🇪🇸',
+  'Athens': '🇬🇷',
+  'Istanbul': '🇹🇷',
+  'Dubai': '🇦🇪',
+  'Bangkok': '🇹🇭',
+  'Madrid': '🇪🇸',
+  'Munich': '🇩🇪'
+};
